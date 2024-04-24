@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "5048789483",
+    "firebase_url": "https://system1-d685d-default-rtdb.firebaseio.com",
+    "project_id": "system1-d685d",
+    "storage_bucket": "system1-d685d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5048789483:android:fe7602d66fc373fed4d1ae",
+        "android_client_info": {
+          "package_name": "com.example.smart_agriclture_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyF7weQteGefPCCYiKk0gEtk4ECox_ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5048789483:android:806eb09569393151d4d1ae",
+        "android_client_info": {
+          "package_name": "com.example.smart_agriculture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyF7weQteGefPCCYiKk0gEtk4ECox_ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
